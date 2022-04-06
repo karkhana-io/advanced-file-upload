@@ -1,0 +1,91 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Advanced File Upload Settings",
+  "enabled": 1,
+  "file_types_allowed": [
+   {
+    "description": "Image",
+    "extension": "png",
+    "parent": "Advanced File Upload Settings",
+    "parentfield": "file_types_allowed",
+    "parenttype": "Advanced File Upload Settings"
+   },
+   {
+    "description": "Image",
+    "extension": "jpeg",
+    "parent": "Advanced File Upload Settings",
+    "parentfield": "file_types_allowed",
+    "parenttype": "Advanced File Upload Settings"
+   },
+   {
+    "description": "PDF",
+    "extension": "pdf",
+    "parent": "Advanced File Upload Settings",
+    "parentfield": "file_types_allowed",
+    "parenttype": "Advanced File Upload Settings"
+   },
+   {
+    "description": null,
+    "extension": "msword",
+    "parent": "Advanced File Upload Settings",
+    "parentfield": "file_types_allowed",
+    "parenttype": "Advanced File Upload Settings"
+   },
+   {
+    "description": "Microsoft Word",
+    "extension": "docx",
+    "parent": "Advanced File Upload Settings",
+    "parentfield": "file_types_allowed",
+    "parenttype": "Advanced File Upload Settings"
+   },
+   {
+    "description": null,
+    "extension": "xlsb",
+    "parent": "Advanced File Upload Settings",
+    "parentfield": "file_types_allowed",
+    "parenttype": "Advanced File Upload Settings"
+   },
+   {
+    "description": "Microsoft Excel",
+    "extension": "xlsx",
+    "parent": "Advanced File Upload Settings",
+    "parentfield": "file_types_allowed",
+    "parenttype": "Advanced File Upload Settings"
+   },
+   {
+    "description": null,
+    "extension": "odt",
+    "parent": "Advanced File Upload Settings",
+    "parentfield": "file_types_allowed",
+    "parenttype": "Advanced File Upload Settings"
+   },
+   {
+    "description": null,
+    "extension": "ods",
+    "parent": "Advanced File Upload Settings",
+    "parentfield": "file_types_allowed",
+    "parenttype": "Advanced File Upload Settings"
+   },
+   {
+    "description": "AutoCAD Drawing Format",
+    "extension": "dwg",
+    "parent": "Advanced File Upload Settings",
+    "parentfield": "file_types_allowed",
+    "parenttype": "Advanced File Upload Settings"
+   },
+   {
+    "description": "AutoCAD CAD Drawing Interchange Format",
+    "extension": "dxf",
+    "parent": "Advanced File Upload Settings",
+    "parentfield": "file_types_allowed",
+    "parenttype": "Advanced File Upload Settings"
+   }
+  ],
+  "modified": "2022-04-06 17:49:37.029431",
+  "name": "Advanced File Upload Settings",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ }
+]

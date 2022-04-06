@@ -9,6 +9,12 @@ app_color = "grey"
 app_email = "admin@karkhana.io"
 app_license = "MIT"
 
+
+fixtures = [
+    {
+	    "doctype": "Advanced File Upload Settings"
+    }
+]
 # Includes in <head>
 # ------------------
 
