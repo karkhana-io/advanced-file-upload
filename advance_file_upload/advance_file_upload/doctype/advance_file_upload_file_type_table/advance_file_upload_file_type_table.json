@@ -1,0 +1,38 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2022-04-06 15:33:58.134031",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "extension",
+  "description"
+ ],
+ "fields": [
+  {
+   "fieldname": "extension",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Extension",
+   "reqd": 1
+  },
+  {
+   "fieldname": "description",
+   "fieldtype": "Small Text",
+   "in_list_view": 1,
+   "label": "Description"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "istable": 1,
+ "links": [],
+ "modified": "2022-04-06 16:25:32.072031",
+ "modified_by": "Administrator",
+ "module": "Advance File Upload",
+ "name": "Advance File Upload File Type Table",
+ "owner": "Administrator",
+ "permissions": [],
+ "sort_field": "modified",
+ "sort_order": "DESC"
+}
